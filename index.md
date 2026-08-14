@@ -1,7 +1,7 @@
 # Brewery Workers Union
 
-There’s been a lot of talk of revolution in the world of beer in recent years.
-But revolutions aren’t made by adding more hops.
+***There’s been a lot of talk of revolution in the world of beer in recent years.***
+***But revolutions aren’t made by adding more hops.***
  
 ## WHO ARE WE?
 
