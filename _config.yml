@@ -1,5 +1,5 @@
 title: Brewery Workers Union
-title-on-all-pages: true
+title-on-all-pages: false
 
 plugins:
   - jekyll-remote-theme
@@ -7,3 +7,4 @@ remote_theme: daattali/beautiful-jekyll
 
 social-network-links:
   email: breweryworkers@iww.org.uk
+  bluesky: breweryunion.bsky.social
