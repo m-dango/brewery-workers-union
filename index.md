@@ -23,3 +23,13 @@ Now is the time to act!
 
 We work to build on the networks we have – of workers, reps, officers, legal teams and activists – whilst working alongside other trade unions and activist groups to support and build solidarity with brewery workers.
 We organise workplaces, provide training on your legal rights including health and safety, contracts, grievances and disciplinaries as well as organising social events, running rep training sessions and so much more.
+
+We have produced a guide on dealing with problems at work that you can [download here](https://londoniww.org.uk/wp-content/uploads/2025/06/BWU_Problems-at-work-web-1.pdf).
+
+You can join the union [online here](https://nudb.iww.org.uk/node/1283).
+
+![Fermenting real change](/assets/images/fermenting-real-change.png)
+
+Email us at: [breweryworkers@iww.org.uk](mailto:breweryworkers@iww.org.uk)
+
+Follow us on Bluesky: [@breweryunion.bsky.social](https://bsky.app/profile/breweryunion.bsky.social)
