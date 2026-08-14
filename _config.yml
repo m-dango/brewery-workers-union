@@ -5,6 +5,8 @@ plugins:
   - jekyll-remote-theme
 remote_theme: daattali/beautiful-jekyll
 
+avatar: /assets/images/logo.png
+
 title-on-all-pages: false
 
 edit_page_button: true
