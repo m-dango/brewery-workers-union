@@ -1,10 +1,21 @@
 title: Brewery Workers Union
-title-on-all-pages: false
+author: IWW London Branch
 
 plugins:
   - jekyll-remote-theme
 remote_theme: daattali/beautiful-jekyll
 
+title-on-all-pages: false
+
+edit_page_button: true
+
 social-network-links:
   email: breweryworkers@iww.org.uk
   bluesky: breweryunion.bsky.social
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
