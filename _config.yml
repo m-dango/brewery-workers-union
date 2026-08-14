@@ -1,5 +1,3 @@
-defaults:
-  - scope:
-      path: ''
-    values:
-      title: ''
+theme: minima
+minima:
+  skin: auto
